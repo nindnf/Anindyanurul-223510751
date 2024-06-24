@@ -15,7 +15,7 @@
       "@/*": ["src/*"]
     },
     "types": [
-      "node"
+      "vite/client"
     ],
     "lib": [
       "esnext",
